@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zurnadurumm&label=Profile%20views&color=0e75b6&style=flat" alt="zurnadurumm" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://kaanchnr.dev (currently working on, not availble) ](https://kaanchnr.dev)
+- 👨‍💻 My portfolio website [https://kaanchnr.dev](https://kaanchnr.dev)
 
 - 💬 Ask me about **Next, React, Mongo, Express, Node.js**
 
