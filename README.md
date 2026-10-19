@@ -2,11 +2,10 @@
 
 ### An experienced Javascript developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaanchinar" alt="kaanchinar" /></a> </p>
 
 - 💬 Ask me about **Frontend, backend and DevOps Engineering**
 
-- 📫 How to reach me **kaanc645@gmail.com**
+- 📫 How to reach me **kaanchnr@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://www.kaanchnr.dev](https://www.kaanchnr.dev)**
 
@@ -14,7 +13,7 @@
 <p align="left">
 <a href="https://github.com/kaanchinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kaanchinar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaan-chinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaan-chinar" height="30" width="40" /></a>
-<a href="https://instagram.com/kaan.chnrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaan.chnrr" height="30" width="40" /></a>
+<a href="https://instagram.com/kaanchinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaan.chnrr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
