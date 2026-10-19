@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/kaan-chinar"><img src="https://img.shields.io/badge/LinkedIn-kaan--chinar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/kaanchinar"><img src="https://img.shields.io/badge/Instagram-kaanchinar-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:kaanchnr@gmail.com"><img src="https://img.shields.io/badge/Email-kaanchnr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=kaanchinar&style=for-the-badge&color=36BCF7&label=Profile+views"/>
+  <img src="https://hits.sh/github.com/kaanchinar.svg?style=for-the-badge&label=Profile%20views&color=36bcf7"/>
 </p>
 
 ## About me
